@@ -106,8 +106,7 @@ header h1::after {
   opacity: 0.4;
 }
 
-.project-img,
-a {
+.project-img {
   width: 100%;
   height: 100%;
   object-fit: cover;
